@@ -1,5 +1,7 @@
 # my_sokoban
 
+-------------------Wikipedia---------------------
+
 Sokoban (warehouse keeper in Japanese) is a type of transport puzzle, in which
 the player pushes boxes or crates around in a warehouse, trying to get them to
 storage locations. The puzzle is usually implemented as a video game.
@@ -14,7 +16,7 @@ The player can also move into a box, which pushes it into the square beyond.
 Boxes may not be pushed into other boxes or walls, and they cannot be pulled.
 The puzzle is solved when all boxes are at storage locations.
 
-(Wikipedia)
+-------------------------------------------------
 
 Develop a copy of this game in terminal mode, using the ncurses library.
 
